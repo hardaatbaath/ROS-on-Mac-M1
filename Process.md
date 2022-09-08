@@ -1,4 +1,4 @@
-# ROS-on-Mac-M1-
+# ROS on Mac M1 
 #### This is a simple guide on how to install ROS on MacOS, espeially the M1 chips. 
 </br>
 </br>
