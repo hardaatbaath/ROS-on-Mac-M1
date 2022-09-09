@@ -15,6 +15,7 @@ We will be running Ubuntu on a virtual machine:
 1. Go to : https://mac.getutm.app/
 2. Install UTM
 3. Set up Ubuntu iso on UTM. This video can be used for reference : https://youtu.be/1WWj6qoWhJw
+4. While installation, it will show the option of "Try Ubuntu" and "Install Ubuntu", you have to choose the former, then follow the instructions of the video provided above.
 </br>
 </br>
 
