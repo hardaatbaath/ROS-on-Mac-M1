@@ -28,3 +28,8 @@ We will now set up ROS on the system
 ## Set-up Turtlebot
 We will now install Turtle Bot
 1. This reference can be taken to install Turtlebot : https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/
+</br>
+</br>
+
+## VS Code installation
+1. The following video can be taken as reference : https://youtu.be/Y1fei1mzP7Q
