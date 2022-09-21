@@ -1,5 +1,5 @@
 # ROS on Mac M1 
-#### This is a simple guide on how to install ROS on MacOS, especially the M1 chips. 
+#### This is a simple guide on how to install ROS on MacOS, especially the M1 chips. There are 2 ways to do it on Mac M1 using UTM, it will be shown as A. and B. One is the ISO image install, and the other is the Server install. 
 </br>
 </br>
 
@@ -33,3 +33,4 @@ We will now install Turtle Bot
 
 ## VS Code installation
 1. The following video can be taken as reference : https://youtu.be/Y1fei1mzP7Q
+2. If VS Code shows a blank screen on opening, then the problem can be corrected using the procedure given by johnhidney on : https://github.com/Microsoft/vscode/issues/6379
