@@ -14,6 +14,8 @@ ROS is only supported on Ubuntu 20.04 or lower version, so we will first need th
 This is the better way.
 1. Go to : https://cdimage.ubuntu.com/releases/20.04/release/
 2. Install the ARM image
+</br>
+</br>
 
 ## Install UTM Virtual Machine:
 We will be running Ubuntu on a virtual machine:
