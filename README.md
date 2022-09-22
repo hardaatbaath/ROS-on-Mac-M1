@@ -1,20 +1,26 @@
 # ROS on Mac M1 
-#### This is a simple guide on how to install ROS on MacOS, especially the M1 chips. There are 2 ways to do it on Mac M1 using UTM, it will be shown as A. and B. One is the ISO image install, and the other is the Server install. 
+#### This is a simple guide on how to install ROS on MacOS, especially the M1 chips. There are 2 ways to do it on Mac M1 using UTM, it will be shown as A. and B. One is the ISO image install (A.), and the other is the Server install (B.). Usually, the Server Method (B.) is better, more powerful.
 </br>
 </br>
 
-## Install ISO image of Ubuntu 20.04
+## A. Install ISO image of Ubuntu 20.04
 ROS is only supported on Ubuntu 20.04 or lower version, so we will first need the image of it to run our ROS on:
 1. Go to : https://cdimage.ubuntu.com/focal/daily-live/current/
 2. Install the ARM image
 </br>
 </br>
 
+## B. Install the Server Image of Ubuntu 20.04
+This is the better way.
+1. Go to : https://cdimage.ubuntu.com/releases/20.04/release/
+2. Install the ARM image
+
 ## Install UTM Virtual Machine:
 We will be running Ubuntu on a virtual machine:
 1. Go to : https://mac.getutm.app/
 2. Install UTM
-3. Set up Ubuntu iso on UTM. This video can be used for reference : https://youtu.be/1WWj6qoWhJw
+3.A Set up Ubuntu iso on UTM. This video can be used for reference : https://youtu.be/1WWj6qoWhJw
+3.B Set up Ubuntu server on UTM. This video can be used for reference : https://www.youtube.com/watch?v=6mtfncj9vhU . If any install error is faced, try putting --fix-missing in the end of the command and do again
 4. While installation, it will show the option of "Try Ubuntu" and "Install Ubuntu", you have to choose the former, then follow the instructions of the video provided above.
 </br>
 </br>
@@ -33,4 +39,4 @@ We will now install Turtle Bot
 
 ## VS Code installation
 1. The following video can be taken as reference : https://youtu.be/Y1fei1mzP7Q
-2. If VS Code shows a blank screen on opening, then the problem can be corrected using the procedure given by johnhidney on : https://github.com/Microsoft/vscode/issues/6379
+2. If VS Code shows a blank screen on opening, then the problem can be corrected using the procedure given by johnhidney on : https://github.com/Microsoft/vscode/issues/6379. This issue is faced mainly in server install (B.) and even after solving it, it works only when VS Code is opened via terminal
