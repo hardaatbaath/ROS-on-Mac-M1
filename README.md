@@ -35,7 +35,8 @@ We will now set up ROS on the system
 
 ## Set-up Turtlebot
 We will now install Turtle Bot
-1. This reference can be taken to install Turtlebot : https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/
+1. This reference can be taken to install Turtlebot : https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
+2. If 1. doesn't work : https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/
 </br>
 </br>
 
