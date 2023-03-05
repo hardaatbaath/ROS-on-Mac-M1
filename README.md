@@ -43,3 +43,7 @@ We will now install Turtle Bot
 ## VS Code installation
 1. The following video can be taken as reference : https://youtu.be/Y1fei1mzP7Q
 2. If VS Code shows a blank screen on opening, then the problem can be corrected using the procedure given by johnhidney on : https://github.com/Microsoft/vscode/issues/6379. This issue is faced mainly in server install (B.) and even after solving it, it works only when VS Code is opened via terminal
+
+
+## Just practicint git 
+yaa, and this is what I am writing :|
