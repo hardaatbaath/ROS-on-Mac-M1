@@ -22,7 +22,7 @@ We will be running Ubuntu on a virtual machine:
 1. Go to : https://mac.getutm.app/
 2. Install UTM 
 3. A. Set up Ubuntu iso on UTM. This video can be used for reference : https://youtu.be/1WWj6qoWhJw 
-4. B. Set up Ubuntu server on UTM. This video can be used for reference : https://www.youtube.com/watch?v=6mtfncj9vhU . If any install error is faced, try putting --fix-missing in the end of the command and do again
+4. B. Set up Ubuntu server on UTM. This video can be used for reference : https://www.youtube.com/watch?v=6mtfncj9vhU . If any install error is faced, try putting --fix-missing in the end of the command and do again. Instead of installing ubuntu-desktop, install kde, it is faster and better. The only downside being that gazebo opens in small size.
 5. While installation, it will show the option of "Try Ubuntu" and "Install Ubuntu", you have to choose the former, then follow the instructions of the video provided above.
 </br>
 </br>
